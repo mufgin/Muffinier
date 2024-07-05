@@ -1,0 +1,33 @@
+Terms of Service for Muffinier
+1. Acceptance of Terms
+By using Muffinier (the "Bot"), you agree to comply with and be bound by these Terms of Service (the "Terms"). If you do not agree to these Terms, you may not use the Bot.
+
+2. Description of Service
+Muffinier is a Discord bot designed to enhance user experience on Discord servers through various features and functionalities, such as fun commands, utilities, and more.
+
+3. Usage Guidelines
+When using Muffinier, you agree to adhere to the following guidelines:
+
+Respect Others: Do not use the Bot to harass, threaten, or insult other users.
+No Spam: Avoid spamming commands or abusing the Bot’s functionalities.
+Legal Compliance: Do not use the Bot for any unlawful activities.
+4. Privacy Policy
+Muffinier collects and processes certain information from users to function correctly. This may include:
+
+User IDs and server IDs
+Message content (for processing commands)
+We do not share or sell your data to third parties. For more detailed information, please refer to our Privacy Policy.
+
+5. Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify users of any significant changes through the Bot or an announcement on our support server. Your continued use of the Bot after any such changes constitutes your acceptance of the new Terms.
+
+6. Termination
+We reserve the right to terminate or suspend your access to the Bot at our sole discretion, without prior notice, for conduct that we believe violates these Terms or is harmful to other users of the Bot or us.
+
+7. Limitation of Liability
+To the maximum extent permitted by law, Muffinier and its creators shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+
+Your use or inability to use the Bot
+Any unauthorized access to or use of our servers and/or any personal information stored therein
+8. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
